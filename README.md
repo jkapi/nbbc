@@ -8,5 +8,5 @@
 
 Copyright © 2008-10, the Phantom Inker. All rights reserved.
 
-I am not the author of this software, I have simply uploaded it to GitHub to make it was to add to Packagist. For more information on this library visit the homepage
+I am not the author of this software, I have simply uploaded it to GitHub to make it easy to add to Packagist. For more information on this library visit the homepage
 of the library here: http://nbbc.sourceforge.net/
