@@ -56,7 +56,7 @@ div.bbcode_code_body { background-color: skyblue; color: black;
 <body>
 
 <?php
-	require_once("../src/nbbc_main.php");
+	require_once("../nbbc.php");
 ?>
 
 <h1>Full BBCode Example (NBBC v<?php print BBCODE_VERSION; ?>)</h1>

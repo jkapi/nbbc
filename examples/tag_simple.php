@@ -8,7 +8,7 @@
 <body>
 <?php
 
-	require_once("../src/nbbc_main.php");
+	require_once("../nbbc.php");
 	
 	$input = "This text is [mono]monospaced![/mono]";
 	

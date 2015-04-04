@@ -83,6 +83,7 @@ h1 { text-align: center; }
 <?php
 
 	require_once("src/nbbc_main.php");		// Expanded version.
+	//require_once("nbbc.php");				// Condensed version.
 
 	$BBCodeTestSuite = Array(
 
