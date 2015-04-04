@@ -12,7 +12,7 @@
 
 <?php
 
-	require_once("../nbbc.php");
+	require_once("../src/nbbc_main.php");
 	
 	//-----------------------------------------------------------------------
 	//  This is the original BBCode input.

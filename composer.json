@@ -6,13 +6,22 @@
     "type": "library",
     "authors": [
         {
-            "name": "Phantom Inker"
+            "name": "Phantom Inker",
+            "homepage": "http://nbbc.sourceforge.net/",
+            "role": "Main Developer"
+        },
+        {
+            "name": "Brett Marks",
+            "email": "ai3@internode.on.net",
+            "role": "Added Namespaced Version"
         }
     ],
     "require": {
-        "php": ">=5.0"
+        "php": ">=5.3"
     },
     "autoload": {
-        "classmap": ["nbbc.php", "src/"]
+        "psr-4": {
+			"nbbc\\": "src"
+        }
     }
 }

@@ -8,7 +8,7 @@
 <body>
 <?php
 
-	require_once("../nbbc.php");
+	require_once("../src/nbbc_main.php");
 	
 	$input = "[b][i]Hello, World![/i][/b]";
 	

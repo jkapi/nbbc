@@ -2,7 +2,7 @@
 <body>
 <?php
 
-	require_once("../nbbc.php");
+	require_once("../src/nbbc_main.php");
 	
 	$input = <<< EOI
 From [url=http://www.ushistory.org/Declaration/document/index.htm]ushistory.org[/url]:
