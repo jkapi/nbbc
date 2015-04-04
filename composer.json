@@ -1,0 +1,18 @@
+{
+    "name": "cyphix333/nbbc",
+    "description": "NBBC is a high-speed, extensible, easy-to-use validating BBCode parser that accepts BBCode as input and generates XHTML",
+    "homepage": "http://nbbc.sourceforge.net/",
+    "keywords": ["nbbc, bbcode, phantom inker"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Phantom Inker"
+        }
+    ],
+    "require": {
+        "php": ">=5.0"
+    },
+    "autoload": {
+        "classmap": ["nbbc.php", "src/"]
+    }
+}
